@@ -2,7 +2,7 @@
 
 > Mirror a winning wallet and hedge both outcomes simultaneously — lock in edge before the market corrects.
 
-
+![preivew](https://repository-images.githubusercontent.com/1181160352/60f909f9-1fb7-48eb-9d8e-81d62c2e9aa8)
 
 *Last updated: March 2025*
 
